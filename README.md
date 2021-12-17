@@ -10,4 +10,4 @@ A custom CSS thing for the Schoology Student dashboard
 @import url('https://raw.githubusercontent.com/Kc5f/SchoologyGreen/main/main.css');
 ```
 
-3. Enjoy!
+3. If that didn't work, copy [this](https://github.com/Kc5f/SchoologyGreen/blob/main/main.css) instead
