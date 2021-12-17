@@ -7,7 +7,7 @@ A custom CSS thing for the Schoology Student dashboard
 2. Inject the following code:
 
 ```css
-@import url('https://raw.githubusercontent.com/Kc5f/SchoologyGreen/main/main.css')
+@import url('https://raw.githubusercontent.com/Kc5f/SchoologyGreen/main/main.css');
 ```
 
 3. Enjoy!
