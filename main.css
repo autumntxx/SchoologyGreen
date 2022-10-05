@@ -7,11 +7,11 @@
 }
 
 header._1SIMq._3v0y7._349XD, ._1SIMq, div button._1SIMq {
-  background-color: hsl(var(--main-hue), 54%, 43%);
+  background-color: hsl(var(--main-hue), 54%, 43%) !important;
 }
 
-._1SIMq:hover, div button._1SIM:hover, ._3OAXJ:hover {
-  background-color: hsl(var(--main-hue), 54%, 38%);
+._1SIMq:hover, div button._1SIM:hover, ._3OAXJ:hover, a._2JX1Q._3VHSs._1k0yk:hover {
+  background-color: hsl(var(--main-hue), 54%, 38%) !important;
 }
 
 span.fcalendar-filter-menu-header {
