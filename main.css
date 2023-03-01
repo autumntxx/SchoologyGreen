@@ -2,6 +2,10 @@
   --main-hue: 136;
 }
 
+* {
+  image-rendering: pixelated;
+}
+
 ._pendo-launcher-badge_ {
   display: none;
 }
