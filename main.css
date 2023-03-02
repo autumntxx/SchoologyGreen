@@ -1,115 +1,115 @@
 :root {
-  --main-hue: 136;
+  --main-hue: 136 !important;
 }
 
 * {
-  image-rendering: pixelated;
+  image-rendering: pixelated !important;
 }
 
 ._pendo-launcher-badge_ {
-  display: none;
+  display: none !important;
 }
 
 header._1SIMq._3v0y7._349XD, ._1SIMq, div button._1SIMq {
-  background-color: hsl(var(--main-hue), 54%, 43%) !important;
+  background-color: hsl(var(--main-hue), 54%, 43%)  !important;
 }
 
 ._1SIMq:hover, div button._1SIM:hover, ._3OAXJ:hover, a._2JX1Q._3VHSs._1k0yk:hover {
-  background-color: hsl(var(--main-hue), 54%, 38%) !important;
+  background-color: hsl(var(--main-hue), 54%, 38%)  !important;
 }
 
 span.fcalendar-filter-menu-header {
-  color: hsl(var(--main-hue), 54%, 38%);
+  color: hsl(var(--main-hue), 54%, 38%) !important;
 }
 
 ._2T2dA {
-  background-color: hsl(var(--main-hue), 54%, 43%);
+  background-color: hsl(var(--main-hue), 54%, 43%) !important;
 }
 ._1k0yk:hover {
-  background-color: hsl(var(--main-hue), 54%, 38%);
+  background-color: hsl(var(--main-hue), 54%, 38%) !important;
 }
 .les2- {
-  border-color: hsl(var(--main-hue), 54%, 38%);
+  border-color: hsl(var(--main-hue), 54%, 38%) !important;
 }
 
 #main-content-wrapper {
-  padding-bottom: 2rem;
+  padding-bottom: 2rem !important;
 }
 
 #edit-submit, #edit-submit-1 {
-  background-color: hsl(var(--main-hue), 54%, 52%);
+  background-color: hsl(var(--main-hue), 54%, 52%) !important;
 }
 
 .cancel-btn, .delete2-btn, .tabs > li:nth-child(2) > div:nth-child(1) > a:nth-child(1), .link-btn, .edit-course-inline-dropdown-arrow, #edit-course-switcher-select-nid-button, #edit-calendar-feed-submit, .hidden-on-mobile > a:nth-child(1), .tabs > li:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
-  background-color: hsl(136, 0%, 88%);
-  background-image: unset;
+  background-color: hsl(136, 0%, 88%) !important;
+  background-image: unset !important;
 
 }
 ._2L4PN {
-  background-color: hsl(var(--main-hue), 90%, 90%);
+  background-color: hsl(var(--main-hue), 90%, 90%) !important;
 }
 
 .enrollment-adminm .user-name, .admin-icon {
-	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1200px-Eo_circle_green_white_checkmark.svg.png') no-repeat no-repeat;
-	display: inline-block;
-	width: 16px;
-	height: 16px;
-	background-size: 16px 16px;
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eo_circle_green_white_checkmark.svg/1200px-Eo_circle_green_white_checkmark.svg.png') no-repeat no-repeat !important;
+	display: inline-block !important;
+	width: 16px !important;
+	height: 16px !important;
+	background-size: 16px 16px !important;
 }
 
 header._1SIMq._3v0y7._349XD {
-  box-shadow: 0rem -1rem 3rem black;  
+  box-shadow: 0rem -1rem 3rem black !important;  
 }
 
 footer._2T2dA._3_bfp {
-  box-shadow: 0rem 1rem 3rem black;  
+  box-shadow: 0rem 1rem 3rem black !important;  
 }
 
 body, #body, body.s-enable-course-dashboard div#container.clearfix div#main-content-wrapper.clearfix.without-left-nav div#content-wrapper div#center div#main div#main-inner, body.s-home-course-dashboard div#container.clearfix div#main-content-wrapper.clearfix.without-left-nav div#content-wrapper div#center div#main div#main-inner {
-  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='21' height='21' patternTransform='scale(1) rotate(115)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(26, 0%, 100%, 1)'/><path d='M10-6V6M10 14v12M26 10H14M6 10H-6' transform='translate(0.5,0)' stroke-linecap='square' stroke-width='5' stroke='hsla(22, 0%, 98%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
-  background-attachment: fixed;
+  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='21' height='21' patternTransform='scale(1) rotate(115)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(26, 0%, 100%, 1)'/><path d='M10-6V6M10 14v12M26 10H14M6 10H-6' transform='translate(0.5,0)' stroke-linecap='square' stroke-width='5' stroke='hsla(22, 0%, 98%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>") !important;
+  background-attachment: fixed !important;
 }
 
 .course-dashboard__accessibility-icon {
-  display: none;
+  display: none !important;
 }
 
 a._2JX1Q span._17Z60.util-max-width-twenty-characters-2pOJU {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 
 a._2JX1Q span._17Z60.util-max-width-twenty-characters-2pOJU::before {
-  visibility: visible;
-  content: 'My School';
+  visibility: visible !important;
+  content: 'My School' !important;
 }
 
 #main-inner {
-  border: 5px black;
+  border: 5px black !important;
 }
 
 div#container.with-tabs #main-content-wrapper.clearfix.without-left-nav {
-  border: .5px solid hsl(var(--main-hue), 30%, 90%);
+  border: .5px solid hsl(var(--main-hue), 30%, 90%) !important;
 }
 
 div#main {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 
 
 ._2wOCj  {
-  display: none;
+  display: none !important;
 }
 
 ._1Z0RM._1tpub.Card-card-data-17m6S {
-  height: 6rem;
+  height: 6rem !important;
 }
 
 div.profile-picture img.imagecache-profile_reg {
-  border-radius: 1rem;
-  box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, 10%);
+  border-radius: 1rem !important;
+  box-shadow: .5rem .5rem .5rem rgba(0, 0, 0, 10%) !important;
 }
 
 header._1SIMq {
-  position: fixed;
-  width: 100%;
+  position: fixed !important;
+  width: 100% !important;
 }
